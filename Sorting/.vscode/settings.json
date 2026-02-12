@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "__bit_reference": "cpp",
+        "fstream": "cpp",
+        "ios": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "string_view": "cpp",
+        "tuple": "cpp",
+        "variant": "cpp"
+    }
+}
